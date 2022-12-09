@@ -8,3 +8,27 @@
 ## _**About Me:**_
 
 *Go to school to increase your experience and find/new work. Purposefulness, sociability, Experience in stressful situations. In such a rapidly changing world, you cannot remain in stasis, you need constant growth. That's why you want to be on the edge of a knife.*
+***
+## _**Skills:**_
+no skills
+no skills
+no skills
+***
+## _**Code example:**_
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+***
+## _**Education:**_
+* Orenburg State University
++ Automation systems of technological processes and productions Higher education
+
+***
+## _**Languages:**_
+* Russian - native speaker
+* English (A1)
