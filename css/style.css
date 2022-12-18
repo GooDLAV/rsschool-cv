@@ -38,6 +38,8 @@ body{
 .wrap {
 	min-height: 100%;
 	overflow: hidden;
+	display: flex;
+	flex-direction: column;
 }
 /*------------------------------------------------------------------------------------*/
 ._container {
@@ -60,7 +62,7 @@ body{
 	align-items: center;
 }
 .header__logo {
-	font-size: 30px;
+	font-size: 24px;
 	font-weight: 700;
 }
 .header__menu{
@@ -77,5 +79,15 @@ body{
 	color: aquamarine;
 	font-weight: 600;
 	line-height: 171%;
+
+}
+/*-MAIN---------------------------------------------------------------------------*/
+.main{
+	flex: 1 1 auto;
+}
+
+
+/*-ПОДВАЛ---------------------------------------------------------------------------*/
+.footer{
 
 }
