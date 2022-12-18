@@ -40,7 +40,6 @@ body {
 	/* растянуть по ширине */
 	justify-content: space-between;
 	/* по центру по вертикали */
-
 	padding: 0 10px 0 10px;
 	flex-wrap: wrap;
 }
