@@ -36,7 +36,7 @@ body {
 }
 
 .main-container {
-	display: block;
+	display: flex;
 	/* растянуть по ширине */
 	justify-content: space-between;
 	/* по центру по вертикали */
